@@ -2,7 +2,12 @@
 title: "Activity 1.2 - RStudio and R Markdown"
 author: "Alayna Garlitch"
 date: "8/28/2019"
-output: html_document
+output: 
+  html_document: 
+    fig_height: 7
+    fig_width: 10
+    highlight: textmate
+    theme: yeti
 ---
 
 ### Load packages
