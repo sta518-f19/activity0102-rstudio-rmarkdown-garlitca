@@ -40,7 +40,7 @@ dino_data %>%
 
 ### Exercise 3
 
-(Add code and narrative as needed. Note that the R chunks are labeled with `plot-star` and `cor-star` to provide spaces to place the code for plotting and calculating the correlation coefficient. To finish, clean up the narrative by removing these instructions.)
+The correlation coefficient for the star dataset is -0.0630.
 
 Blah blah blah...
 
