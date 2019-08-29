@@ -15,11 +15,11 @@ library(datasauRus)
 
 ### Exercise 1
 
-(Type your answer to Exercise 1 here. This exercise does not require any R code.)
+In the file, there are 1846 rows and 3 variables/columns.The 3 variables include x, y, and the name of the specified data set.
 
 ### Exercise 2
 
-(The answers for this Exercise are given for you below. But you should clean up some of the narrative so that it only includes what you want to turn in.)
+The correlation coefficient is -.0645.
 
 First let's plot the data in the dino dataset:
 
